@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/LANOSDB/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/LANOSDB/static/js/main.768c2920.chunk.js",
+    "main.js.map": "/LANOSDB/static/js/main.768c2920.chunk.js.map",
+    "runtime-main.js": "/LANOSDB/static/js/runtime-main.412edbb4.js",
+    "runtime-main.js.map": "/LANOSDB/static/js/runtime-main.412edbb4.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/LANOSDB/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.78b2a99c.chunk.js": "/LANOSDB/static/js/2.78b2a99c.chunk.js",
+    "static/js/2.78b2a99c.chunk.js.map": "/LANOSDB/static/js/2.78b2a99c.chunk.js.map",
+    "static/js/3.575b271a.chunk.js": "/LANOSDB/static/js/3.575b271a.chunk.js",
+    "static/js/3.575b271a.chunk.js.map": "/LANOSDB/static/js/3.575b271a.chunk.js.map",
+    "index.html": "/LANOSDB/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/LANOSDB/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.ab7136cd.chunk.css.map": "/LANOSDB/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.78b2a99c.chunk.js.LICENSE.txt": "/LANOSDB/static/js/2.78b2a99c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.412edbb4.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.78b2a99c.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.768c2920.chunk.js"
+  ]
+}
